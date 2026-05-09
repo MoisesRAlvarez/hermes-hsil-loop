@@ -1,0 +1,61 @@
+# Archivos compilados / optimizados / DLL
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribución / empaquetado
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Registros de instaladores
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Informes de pruebas / cobertura
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Entornos virtuales
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs
+logs/
+*.log
+
+# HSIL específico (mantén el registro pero ignora las copias de seguridad si prefieres)
+# .hermes/hsil/log.jsonl   # <-- descomenta si NO quieres versionar el registro
