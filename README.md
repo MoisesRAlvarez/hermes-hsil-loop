@@ -44,7 +44,7 @@ Si llegas a usar integraciones adicionales con Notion u Obsidian, instala los pa
 
 ## 🔧 Uso básico
 
-1. Instala la skill en tu entorno Hermes.
+1. Instala la skill en tu entorno Hermes o OpenClaw, y Cambia el nombre Hermes por el de el archivo raiz de tu configuracio.
 2. Configura `~/.hermes/config.yaml` con la sección `hsil`.
 3. Ejecuta manualmente o deja que las tareas automáticas hagan su trabajo:
 
